@@ -16,7 +16,7 @@ const Chart = () => {
                         }
                     ]
                 }}
-                height={400}
+                height={400} 
                 width={600}
                 options={{
                     maintainAspectRatio: false
